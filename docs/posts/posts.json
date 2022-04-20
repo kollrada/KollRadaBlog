@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to KollRadaBlog",
+    "description": "Welcome to our new blog, KollRadaBlog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Koll Rada",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-04-20",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-04-20T17:55:11-05:00",
+    "input_file": "welcome.knit.md"
+  }
+]
